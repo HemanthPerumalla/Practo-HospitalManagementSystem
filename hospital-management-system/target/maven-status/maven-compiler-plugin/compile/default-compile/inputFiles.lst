@@ -1,0 +1,13 @@
+/home/perumalla/Downloads/hospital-management-system/src/main/java/com/hospital/HospitalManagementSystemApplication.java
+/home/perumalla/Downloads/hospital-management-system/src/main/java/com/hospital/controllers/AppointmentController.java
+/home/perumalla/Downloads/hospital-management-system/src/main/java/com/hospital/controllers/DoctorController.java
+/home/perumalla/Downloads/hospital-management-system/src/main/java/com/hospital/controllers/PatientController.java
+/home/perumalla/Downloads/hospital-management-system/src/main/java/com/hospital/models/Appointment.java
+/home/perumalla/Downloads/hospital-management-system/src/main/java/com/hospital/models/Doctor.java
+/home/perumalla/Downloads/hospital-management-system/src/main/java/com/hospital/models/Patient.java
+/home/perumalla/Downloads/hospital-management-system/src/main/java/com/hospital/repositories/AppointmentRepository.java
+/home/perumalla/Downloads/hospital-management-system/src/main/java/com/hospital/repositories/DoctorRepository.java
+/home/perumalla/Downloads/hospital-management-system/src/main/java/com/hospital/repositories/PatientRepository.java
+/home/perumalla/Downloads/hospital-management-system/src/main/java/com/hospital/services/AppointmentService.java
+/home/perumalla/Downloads/hospital-management-system/src/main/java/com/hospital/services/DoctorService.java
+/home/perumalla/Downloads/hospital-management-system/src/main/java/com/hospital/services/PatientService.java
